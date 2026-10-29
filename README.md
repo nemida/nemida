@@ -5,5 +5,9 @@
 </p>
 
 <p align="center">
-<b>web apps.</b> <b>machine learning on the side.</b>
+<b>web apps, agents.</b> 
+</p>
+
+<p align="center">
+<b>machine learning on the side.</b>
 </p>
