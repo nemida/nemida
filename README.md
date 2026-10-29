@@ -1,11 +1,11 @@
 <h3 align="center">hi. i'm aditya.</h3>
 
 <p align="center">
-<b>systems, open source and competitive programming.</b>
+<b>backend, distributed systems, ai agents.</b>
 </p>
 
 <p align="center">
-<b>web apps, agents.</b> 
+<b>open source, competitive programming.</b> 
 </p>
 
 <p align="center">
